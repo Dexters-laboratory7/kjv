@@ -1,0 +1,160 @@
+################# KJV Bible Contents ###########
+
+1. Genesis (Ge).
+
+2. Exodus (Exo).
+
+3. Leviticus (Lev).
+
+4. Numbers (Num).
+
+5. Deuteronomy (Deu).
+
+6. Joshua (Josh).
+
+7. Judges (Jdgs).
+
+8. Ruth (Ruth).
+
+9. 1 Samuel (1Sm).
+
+10. 2 Samuel (2Sm).
+
+11. 1 Kings (1Ki).
+
+12. 2 Kings (2Ki).
+
+13. 1 Chronicles (1Chr).
+
+14. 2 Chronicles (2Chr).
+
+15. Ezra (Ezra).
+
+16. Nehemiah (Neh).
+
+17. Esther (Est).
+
+18. Job (Job).
+
+19. Psalms (Psa).
+
+20. Proverbs (Prv).
+
+21. Ecclesiastes (Eccl).
+
+22. Song of Solomon (SSol).
+
+23. Isaiah (Isa).
+
+24. Jeremiah (Jer).
+
+25. Lamentations (Lam).
+
+26. Ezekiel (Eze).
+
+27. Daniel (Dan).
+
+28. Hosea (Hos).
+
+29. Joel (Joel).
+
+30. Amos (Amos).
+
+31. Obadiah (Obad).
+
+32. Jonah (Jonah).
+
+33. Micah (Mic).
+
+34. Nahum (Nahum).
+
+35. Habakkuk (Hab).
+
+36. Zephaniah (Zep).
+
+37. Haggai (Hag).
+
+38. Zechariah (Zec).
+
+39. Malachi (Mal).
+
+40. Tobit (Tob).
+
+41. Judith (Jdt).
+
+42. Wisdom of Solomon (Wis).
+
+43. Sirach (Sir).
+
+44. Baruch (Bar).
+
+45. Prayer of Azariah (Azar).
+
+46. Susanna (Sus).
+
+47. Bel and the Dragon (Bel).
+
+48. 1 Maccabees (1Mac).
+
+49. 2 Maccabees (2Mac).
+
+50. 1 Esdras (1Esd).
+
+51. Prayer of Manasseh (Man).
+
+52. 2 Esdras (2Esd).
+
+53. Matthew (Mat).
+
+54. Mark (Mark).
+
+55. Luke (Luke).
+
+56. John (John).
+
+57. The Acts (Acts).
+
+58. Romans (Rom).
+
+59. 1 Corinthians (1Cor).
+
+60. 2 Corinthians (2Cor).
+
+61. Galatians (Gal).
+
+62. Ephesians (Eph).
+
+63. Philippians (Phi).
+
+64. Colossians (Col).
+
+65. 1 Thessalonians (1Th).
+
+66. 2 Thessalonians (2Th).
+
+67. 1 Timothy (1Tim).
+
+68. 2 Timothy (2Tim).
+
+69. Titus (Titus).
+
+70. Philemon (Phmn).
+
+71. Hebrews (Heb).
+
+72. James (Jas).
+
+73. 1 Peter (1Pet).
+
+74. 2 Peter (2Pet).
+
+75. 1 John (1Jn).
+
+76. 2 John (2Jn).
+
+77. 3 John (3Jn).
+
+78. Jude (Jude).
+
+79. Revelation (Rev).
+
